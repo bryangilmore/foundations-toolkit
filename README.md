@@ -1,1 +1,1 @@
-# -foundations-toolkit
+# foundations-toolkit
